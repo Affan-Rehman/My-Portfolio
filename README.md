@@ -1,6 +1,6 @@
 # Welcome to My Portfolio 🚀
 
-🌐 Here's the link to my wesbite!
+🌐 Here's the link to my wesbite: https://affan-rehman.github.io/My-Portfolio/
 
 Welcome to my website, which serves as a showcase of my skills and achievements. I'm Affan Rehman, a passionate Software Engineer from NUST with expertise in various fields, including app development, web development, graphic design, and Microsoft Office. 
 
