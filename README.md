@@ -2,15 +2,18 @@
 
 🌐 Here's the link to my wesbite: https://affan-rehman.github.io/My-Portfolio/
 
-Welcome to my website, which serves as a showcase of my skills and achievements. I'm Affan Rehman, a passionate Software Engineer from NUST with expertise in various fields, including app development, web development, graphic design, and Microsoft Office. 
+Welcome to my website, which serves as a showcase of my skills and achievements. I'm Affan Rehman, a passionate Software Engineer from NUST with expertise in various fields, including mobile and web application development, technical recruiting, business operations, and design.
 
-📱 App Developer: I create sleek and efficient mobile applications that cater to a variety of needs and audiences. 
+🚀 **Flutter Developer**: I specialize in Flutter for efficient, cross-platform mobile applications that maintain high performance across both Android and iOS.
 
-💻 Web Developer: Crafting interactive and user-friendly websites is my forte.
+💻 **MERN Stack Developer**: I can easily handle frontend and backend applications thrown at me, utilizing MongoDB, Express, React, and Node.js.
 
-🎨 Graphic Designer: I have a creative side and can design visually stunning graphics.
+📱 **Native Android Developer**: Proficient in Java, I dive deep into Android's capabilities to craft compelling and high-performance native applications.
 
-🖥️ MS Office Expert: I'm well-versed in Microsoft Office, ensuring your documents and presentations are top-notch.
+🔍 **Technical Recruiter**: Experienced in identifying and recruiting top tech talent, ensuring the right fit for the company culture.
 
+💼 **Business Operations Associate**: Skilled in streamlining operations and improving efficiencies, I support business growth and operational excellence.
 
-Feel free to reach out to me at balo1231@hotmail.com for collaborations or inquiries. Let's create something amazing together! 
+🎨 **Figma Designer**: I am adept at creating system architectures and system designs in Figma, enhancing the user experience through thoughtful design.
+
+Feel free to reach out to me at affanrehman1278@hotmail.com for collaborations or inquiries. Let's create something amazing together!
