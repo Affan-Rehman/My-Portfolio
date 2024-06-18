@@ -117,7 +117,17 @@ pre {
   box-shadow: none;
   outline: 0 none;
 }
+pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-size: 16px; /* Default font size */
+        }
 
+        @media (max-width: 600px) {
+            pre {
+                font-size: 14px; /* Smaller font size for mobile */
+            }
+        }
 .paddsection {
   padding-top: 90px;
   padding-bottom: 90px;
